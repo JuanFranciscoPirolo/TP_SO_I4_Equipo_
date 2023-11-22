@@ -1,0 +1,17 @@
+A- ¿Qué color de fondo tiene su página en el TESTING ?
+
+El color de fondo que esta en la página en la rama TESTING es de color AZUL.
+
+B- ¿Qué color de fondo tiene su página en el DESARROLLO ?
+
+El color de fondo que esta en la página en la rama DESARROLLO es de color AMARILLO.
+
+
+C- ¿Qué color de fondo tiene su página en el MASTER?
+
+El color de fondo que esta en la página en la rama MASTER es de color AZUL.
+
+
+D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
+
+En la rama MASTER quedo el favicon de ALFA y de BETA.
