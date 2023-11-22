@@ -15,3 +15,25 @@ El color de fondo que esta en la página en la rama MASTER es de color AZUL.
 D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
 
 En la rama MASTER quedo el favicon de ALFA y de BETA.
+
+E- ¿Algún integrante tuvo problemas al hacer el push?
+
+ALFA tuvo un problema, cuando trato de hacer un push, y no habia traido los cambios que habia hecho GAMMA en su repositorio (GIT PULL).
+
+F- ¿Qué problemas surgieron?
+
+Ninguno, solamente el error explicado en el punto anterior por ALFA.
+
+G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución
+adoptada?
+
+Una de las soluciones que podemos tomar ante ese problema u otro, es mejorar la comunicacion entre los integrantes, y explicar paso a paso lo que hicimos anteriormente.
+
+H- ¿Qué sucede si cada uno utiliza el push -f?
+
+El comando push -f sobrescribe la historia del repositorio remoto con la historia local, ignorando cualquier cambio en el repositorio remoto que no esté localmente. Esto hace que se pierda el historial y que haya un riesgo de reescritura accidental.
+
+I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20
+en DESARROLLO ?
+
+Si se quiere lograr que el index.html tenga todos los <p> de los puntos 18, 19 y 20, se tendria que hacer un merge de TESTING en DESARROLLO (posicionado en DESAROLLO)
